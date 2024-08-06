@@ -1,6 +1,6 @@
 local ArrayField = loadstring(game:HttpGet("https://raw.githubusercontent.com/cracklua/cracks/m/sources/pitbull/Library/Key%20System.lua"))()
 
-setclipboard("https://discord.gg/d8Yp6qFmSH")
+setclipboard("https://discord.gg/pj5vc6mg")
 
 local Window = ArrayField:CreateWindow({
     Name = "VINCENT HUB",
@@ -20,7 +20,7 @@ local Window = ArrayField:CreateWindow({
     KeySettings = {
         Title = "VINCENT HUB",
         Subtitle = "Key System",
-        Note = "To get the key join our discord (https://discord.gg/d8Yp6qFmSH)",
+        Note = "To get the key join our discord (https://discord.gg/pj5vc6mg)",
         FileName = "VINCENT HUB",
         SaveKey = True,
         GrabKeyFromSite = false,
