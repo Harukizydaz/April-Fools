@@ -3,13 +3,13 @@ local ArrayField = loadstring(game:HttpGet("https://raw.githubusercontent.com/cr
 setclipboard("https://discord.gg/d8Yp6qFmSH")
 
 local Window = ArrayField:CreateWindow({
-    Name = "CRACKLED HUB BY FROSTLUA ",
+    Name = "VINCENT HUB",
     LoadingTitle = "Loading",
-    LoadingSubtitle = "by Belico2 and alexis.isback00",
+    LoadingSubtitle = "by VINCENT",
     ConfigurationSaving = {
         Enabled = true,
         FolderName = nil,
-        FileName = "CRACKLED HUB BY FROSTLUA "
+        FileName = "VINCENT HUB"
     },
     Discord = {
         Enabled = true,
@@ -18,10 +18,10 @@ local Window = ArrayField:CreateWindow({
     },
     KeySystem = false,
     KeySettings = {
-        Title = "CRACKLED HUB BY FROSTLUA ",
+        Title = "VINCENT HUB",
         Subtitle = "Key System",
         Note = "To get the key join our discord (https://discord.gg/d8Yp6qFmSH)",
-        FileName = "CRACKLED HUB BY FROSTLUA  Key System",
+        FileName = "VINCENT HUB",
         SaveKey = True,
         GrabKeyFromSite = false,
         Key = {"2VoLiZ9Gbngzm87LB1F9",'GFqQb6oFl4K97m2I735guR7Vw4ez6gELs9gHdNJcCee2aYPqjL'},
