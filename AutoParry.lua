@@ -2120,4 +2120,4 @@ Tab5:AddButton({
     end
 })
 
-setclipboard("https://discord.gg/d8Yp6qFmSH")
+setclipboard("https://discord.gg/pj5vc6mg")
