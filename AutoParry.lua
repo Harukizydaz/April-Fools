@@ -541,8 +541,8 @@ local executorName = getExecutorName()
 
 if executorName == "Solara" then
     local Notify = Library:MakeNotify({
-        Title = "CRACKLED HUB BY FROSTLUA ",
-        Text = "CRACKLED HUB BY FROSTLUA  has determined that your executor, " .. executorName .. ", is fully compatible, ensuring an optimal and satisfying experience with our product.",
+        Title = "VINCENT HUB ",
+        Text = "VINCENT HUB  has determined that your executor, " .. executorName .. ", is fully compatible, ensuring an optimal and satisfying experience with our product.",
         Time = 5
       })
 
@@ -570,8 +570,8 @@ if executorName == "Solara" then
         coroutine.resume(AntiKick)
 else
     local Notify = Library:MakeNotify({
-        Title = "CRACKLED HUB BY FROSTLUA ",
-        Text = "CRACKLED HUB BY FROSTLUA  has determined that your executor, " .. executorName .. ", is fully compatible, ensuring an optimal and satisfying experience with our product.",
+        Title = "VINCENT HUB ",
+        Text = "VINCENT HUB  has determined that your executor, " .. executorName .. ", is fully compatible, ensuring an optimal and satisfying experience with our product.",
         Time = 5
       })
 
@@ -638,9 +638,9 @@ redzlib.Themes.DarkRed = {
 }  
 
 local Window = redzlib:MakeWindow({
-    Title = "CRACKLED HUB BY FROSTLUA  | " .. gameName,
-    SubTitle = "by Belico2 and alexis.isback00",
-    SaveFolder = "CRACKLED HUB BY FROSTLUA "
+    Title = "VINCENT HUB  | " .. gameName,
+    SubTitle = "by vincent and allzkie",
+    SaveFolder = "VINCENT HUB "
 })
 
 redzlib:SetTheme("DarkRed")
@@ -656,9 +656,9 @@ local Tab5 = Window:MakeTab({"| Tools", "rbxassetid://18170704671"})
 Window:SelectTab(Tab1)
 
 Tab1:AddDiscordInvite({
-    Name = "CRACKLED HUB BY FROSTLUA  Roblox",
+    Name = "VINCENT HUB  Roblox",
     Logo = "rbxassetid://18568712042",
-    Invite = "https://discord.gg/d8Yp6qFmSH"
+    Invite = "https://discord.gg/pj5vc6mg"
 })
 
 local Paragraph = Tab1:AddParagraph({"Join us discord for information about updates!", "​"})
